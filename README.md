@@ -1,8 +1,8 @@
 <h1 align="center">Hey there 👋, I'm Kunal Dharme</h1>
-<h3 align="center">🚀 Software Developer | 🛡️ 👨‍💻 Ethical Hacker | 💻 Building + Breaking Systems</h3>
+<h3 align="center">🚀 Software Developer | 🧠 Ethical Hacker | 💻 Building + Breaking Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=550&lines=Building+tools+in+C+%26+Bash;Ethical+Hacking+%7C+Linux+Dev;Break+things+to+build+better!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=600&lines=Building+real-world+tools+with+C+%26+Bash;Ethical+Hacking+%7C+Linux+%7C+Open+Source+Dev;Breaking+and+making+things+is+how+I+learn!" />
 </p>
 
 ---
