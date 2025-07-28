@@ -2,31 +2,34 @@
 <h3 align="center">🚀 Software Developer | 🧠 Ethical Hacker | 💻 Building + Breaking Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=600&lines=Building+real-world+tools+with+C+%26+Bash;Ethical+Hacking+%7C+Linux+%7C+Open+Source+Dev;Breaking+and+making+things+is+how+I+learn!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=550&lines=Building+tools+in+C+%26+Bash;Ethical+Hacking+%7C+Linux+Dev;Break+things+to+build+better!" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 💻 Software developer focused on practical tools in **Cybersecurity**, **Linux**, and **C programming**
-- 🌿 Merging technology with tradition (e.g., Piper longum farmer project coming soon)
-- 🧠 Love exploring **system-level programming**, **network tools**, and **ethical hacking**
-- ☕ Fueled by curiosity and caffeine
+- 👨‍💻 Software developer focused on **ethical hacking** and **AI/ML tools**
+- 🐧 Skilled in **Linux internals**, **C programming**, and **Python scripting**
+- 🛠️ I build CLI tools, keyloggers, scanners, and utilities to analyze or secure systems
+- 🌾 Tech with tradition: building a Piper longum platform to support my farming roots
+- 🚀 Exploring how **AI and automation** can strengthen both system defense and offense
+- ☕ Fueled by curiosity, passion, and breaking things to learn how they work
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
-
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Vim](https://img.shields.io/badge/-Vim-019733?style=flat&logo=vim)
+<p align="center">
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code" />
+</p>
 
 ---
 
@@ -45,7 +48,7 @@
 > Tool to validate proxy lists and check anonymity levels.
 
 ### 📝 [Personal Blog](https://github.com/KunalDharme/Personal-Blog)
-> A clean and simple personal blog built with static site generators (like Hugo or Jekyll).
+> A unique space where I — Kunal V. Dharme, a consulting hacker, cyber security engineer — document and share digital investigations, case studies, and technical breakdowns of cybercrime.
 
 ---
 
@@ -70,8 +73,9 @@
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/-Kunal%20Dharme-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunaldharme)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:kunaldharme.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Dharme-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-dharme-8734862b7/)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-kunaldharme2004@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunaldharme2004@gmail.com)
 
 ---
 
