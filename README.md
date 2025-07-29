@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code" />
 </p>
 
-Check out my top projects below 👇
+<h3 style="color:#f39c12;"><strong>🔥 Check out my top projects below 👇</strong></h3>
 
 ---
 
