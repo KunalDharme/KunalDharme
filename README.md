@@ -31,24 +31,7 @@
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code" />
 </p>
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 [Linux-KeyTrace](https://github.com/KunalDharme/Linux-KeyTrace)
-> A low-level Linux keylogger built in C with device-level input capture.
-
-### 💬 [Stealth Chat](https://github.com/KunalDharme/Stealth-Chat)
-> Terminal-based secure chat app with encryption and stealth features.
-
-### 🔐 [Password Manager](https://github.com/KunalDharme/Password-Manager)
-> Simple CLI-based password manager written in Python with encryption support.
-
-### 🌐 [Proxy Check](https://github.com/KunalDharme/Proxy-Check)
-> Tool to validate proxy lists and check anonymity levels.
-
-### 📝 [Personal Blog](https://github.com/KunalDharme/Personal-Blog)
-> A unique space where I — Kunal V. Dharme, a consulting hacker, cyber security engineer — document and share digital investigations, case studies, and technical breakdowns of cybercrime.
+Check out my top projects below 👇
 
 ---
 
@@ -61,12 +44,14 @@
 
 ---
 
-## ☕ Support My Work
-
 <p align="center">
   <a href="https://www.buymeacoffee.com/kunaldharme" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="45" width="170">
   </a>
+</p>
+
+<p align="center">
+  ☕ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 ---
@@ -79,11 +64,5 @@
 
 ---
 
-## ✨ Fun Facts
-
-- 🐧 I live in the terminal — Vim and Bash are my playgrounds
-- 🔍 I reverse-engineer tools just to see how they work
-- 🌾 I’m building an e-commerce brand around **Piper longum** grown by my farmer dad
-
-> 🔎 *“Don’t just code to learn — build things that solve real problems.”*
+> 🔎 *“I live in the terminal.”*
 
