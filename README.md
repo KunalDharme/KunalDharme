@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Kunal Dharme</h1>
 <h3 align="center">🚀 Software Developer | 🧠 Ethical Hacker | 💻 Backend Developer</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=600&lines=Building+real-world+tools+with+Python+%26+Bash;Ethical+Hacking+%7C+Linux+%7C+Open+Source+Dev;Breaking+and+making+things+is+how+I+learn!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&width=600&lines=Building+real-world+tools+with+Python+%26+Bash;Ethical+Hacking+%7C+Linux+%7C+Open+Source+Dev;" />
 </p>
 
 ---
@@ -10,11 +10,9 @@
 
 - 👨‍💻 IT student specializing in **backend engineering** and **ethical hacking / penetration testing**
 - 🐧 Proficient in **Linux (Kali & Ubuntu)**, **Python scripting**, and **Bash automation**
-- 🛠️ I build CLI tools, encrypted apps, network security tools, and backend APIs
+- 🛠️ I build production-ready APIs with FastAPI and Flask.
 - ☁️ Exploring **cloud & DevOps** — Docker, Kubernetes, AWS, Terraform, CI/CD pipelines
-- 🔒 CTF solver | Network traffic analyst | Security-first developer
 - 🌾 Tech with tradition: building a **Piper longum platform** to support my farming roots
-- ☕ Fueled by curiosity, passion, and breaking things to learn how they work
 
 ---
 
@@ -30,8 +28,7 @@
   <!-- Backend -->
   <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask" />
-  <img src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-D71F00?style=flat&logo=python&logoColor=white" />
   <br>
   <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -57,15 +54,6 @@
 </p>
 
 <h3 style="color:#f39c12;"><strong>🔥 Check out my top projects below 👇</strong></h3>
-
----
-
-## 📜 Certifications
-
-- 🛡️ **Complete Ethical Hacking Bootcamp** – Udemy *(Penetration Testing, Network Security, Vulnerability Assessment)*
-- 🔍 **Learn OSINT: Open-Source Intelligence** – Udemy *(Reconnaissance, Maltego, Shodan, theHarvester)*
-- 🐍 **Python: Mastering the Essentials** – Scaler *(Automation, Application Development)*
-- 🌐 **Introduction to Internet of Things** – NPTEL
 
 ---
 
