@@ -60,22 +60,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔐 Stealth-Chat — *Python, AES-256, TCP Sockets, Multithreading*
-> Encrypted peer-to-peer chat application with AES-256 encryption over TCP sockets and multithreaded client handling for real-time simultaneous connections.
-
-### 🎨 ArtStudio — *FastAPI, SQLAlchemy, Jinja2, PostgreSQL, Railway*
-> Full-stack art sharing & marketplace platform with JWT authentication, email OTP verification, role-based access control, and a real-time notification system. Deployed on Railway.
-
-### 📶 RoboWiFi-AP — *Python, Bash, Network Security*
-> Wireless security research tool for simulating enterprise Wi-Fi attack scenarios in controlled lab environments. Automates network testing to analyze client behavior and identify misconfigured devices.
-
-### 🔑 Password-Manager — *Python, AES Cryptography*
-> Secure password manager with AES encryption, master-password authentication, encrypted local credential storage, and secure password generation.
-
----
-
 ## 📜 Certifications
 
 - 🛡️ **Complete Ethical Hacking Bootcamp** – Udemy *(Penetration Testing, Network Security, Vulnerability Assessment)*
